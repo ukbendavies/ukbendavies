@@ -14,4 +14,4 @@
 
 ![language-stats](https://github-readme-stats.vercel.app/api/top-langs?username=ukbendavies&hide_border=true&langs_count=10&layout=compact&count_private=true&bg_color=0D1117&icon_color=58A6FF&text_color=8B949E&title_color=ffffff)
 
-NOTE: Top languages *only indicates languages I've personally committed to github and does not indicate my skill level* or something like that, it's a github metric
+NOTE: Top languages *only indicates languages I've personally committed to github and does not indicate my skill level* or something like that, it's a github metric.
